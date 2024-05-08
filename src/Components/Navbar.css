@@ -1,0 +1,18 @@
+nav {
+    background: rgb(62, 109, 134);
+    background: linear-gradient(90deg, rgba(62, 109, 134, 1) 0%, rgba(47, 189, 255, 1) 100%);
+}
+
+.navbar-nav li.nav-item:hover .nav-link {
+    color: white;
+    background-color: #5783db;
+    border-radius: 5px;
+}
+
+li:hover a {
+color: white;
+}
+
+.image img {
+    height: 60px;
+}
